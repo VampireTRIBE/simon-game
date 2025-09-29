@@ -8,7 +8,7 @@ The goal of the game is simple: repeat the sequence of flashes shown by the comp
 
 👉 Live Demo (GitHub Pages)
 
-
+Link : https://vampiretribe.github.io/simon-game/
 	
 ✨ Features
 
