@@ -1,0 +1,66 @@
+.main{
+   margin-left: 33%;
+   padding: 20px;
+   padding-top: 10px;
+   padding-bottom: 40px;
+   width: 500px;
+   height: 600px;
+   /* border: solid black 2px; */
+   display: flex;
+   flex-direction: column;
+   justify-content:space-between;
+   align-items: center;
+}
+
+.head{
+   text-align: center;
+}
+
+.play_area{
+   width: 400px;
+   height: 500px;
+   /* border: solid black 3px; */
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: space-around;
+   align-items: center;
+   align-content:flex-start;
+}
+
+.box{
+   width: 150px;
+   height: 150px;
+   margin: 10px;
+   border: solid black 5px;
+   border-radius: 10px;
+}
+
+.box1{
+   background-color: orangered;
+}
+.box2{
+   background-color: blue;
+}
+.box3{
+   background-color: green;
+}
+.box4{
+   background-color: yellow;
+}
+
+.flash{
+   background-color: white;
+}
+
+.score{
+   text-align: center;
+   position: fixed;
+   right: 22%;
+   top: 30%;
+   font-size: xx-large;
+}
+
+.flashbody{
+   background-color: chocolate;
+}
